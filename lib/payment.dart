@@ -54,7 +54,7 @@ class Payment extends StatelessWidget {
                 const Positioned(
                   left: 40,
                     top: 30,
-                    child: Text("Shopping Card",style: TextStyle(color: Colors.black),)),
+                    child: Text("Shopping Card",style: TextStyle(color: Colors.white),)),
 
                 Positioned(
                   right: 30,
@@ -63,31 +63,31 @@ class Payment extends StatelessWidget {
                 const Positioned(
                     left: 40,
                     top: 65,
-                    child: Text("2536 3587 5300 5682",style: TextStyle(color: Colors.black),)),
+                    child: Text("2536 3587 5300 5682",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 40,
                     bottom: 40,
-                    child: Text("Card Holder",style: TextStyle(color: Colors.black),)),
+                    child: Text("Card Holder",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 40,
                     bottom: 20,
-                    child: Text("Janvi Cavin",style: TextStyle(color: Colors.black),)),
+                    child: Text("Janvi Cavin",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 180,
                     bottom: 40,
-                    child: Text("Shopping Card",style: TextStyle(color: Colors.black),)),
+                    child: Text("Shopping Card",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 180,
                     bottom: 20,
-                    child: Text("01/24",style: TextStyle(color: Colors.black),)),
+                    child: Text("01/24",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 330,
                     bottom: 40,
-                    child: Text("CVV",style: TextStyle(color: Colors.black),)),
+                    child: Text("CVV",style: TextStyle(color: Colors.white),)),
                 const Positioned(
                     left: 330,
                     bottom: 18,
-                    child: Text("...",style: TextStyle(color: Colors.black,fontSize: 35),)),
+                    child: Text("...",style: TextStyle(color: Colors.white,fontSize: 35),)),
               ],
             ),
             SizedBox(height: 7,),
